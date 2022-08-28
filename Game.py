@@ -6,7 +6,7 @@ import random
 
 window = turtle.Screen()
 window.setup(width=600, height=600)
-window.title("Aerospace clash!")
+window.title("Aerospace Clash!")
 window.bgcolor("black")
 
 window.tracer(0)
