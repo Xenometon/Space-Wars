@@ -1,4 +1,4 @@
-# Game
+# Space-Wars Game
 
 **A simple game through python.**
 
